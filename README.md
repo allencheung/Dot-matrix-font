@@ -1,4 +1,4 @@
-# Dot-matrix-font
+# Dot-matrix-font 点阵字库
 
 >ASC12  ' 8x12 ASCII点阵 一个字符12Byte  
 >ASC16  ' 8x16 ASCII点阵 一个字符16Byte  
